@@ -1,0 +1,6 @@
+paiza online hackathon
+POHでの学習を進めています。
+
+その進捗としてこちらへプログラムコードを記載します。
+https://paiza.jp/poh/ando/
+

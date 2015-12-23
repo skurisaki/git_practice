@@ -7,8 +7,8 @@ public class Main {
         // Let's チャレンジ！！
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String line = br.readLine();
-        int a = new java.util.Scanner(System.in).nextInt();
-        for(int i=0;i<a;i++){
+    	int x = Integer.parseInt(line);
+        for(int i=0;i<x;i++){
             System.out.print("Ann");
         }
     }
